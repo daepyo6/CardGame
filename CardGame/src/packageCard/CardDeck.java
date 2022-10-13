@@ -1,6 +1,7 @@
 package packageCard;
 
 public class CardDeck {
+	//1
 	private Card [] cards = new Card[52];
 	// cards[0] = new Card(Card.Spade, 1);
 	// cards[1] = new Card(Card.Spade, 2);

@@ -1,7 +1,7 @@
 package packageCard;
 
 public class CardPlay {
-
+	//2
 	public static void main(String[] args) {
 		
 		CardDeck d = new CardDeck();

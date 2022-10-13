@@ -1,7 +1,7 @@
 package packageCard;
 
 public class Card {
-	
+	//
 	final static int spade = 4;
 	final static int diamond = 3;
 	final static int heart = 2;
